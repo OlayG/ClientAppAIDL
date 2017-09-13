@@ -1,10 +1,10 @@
 
-package com.example.admin.clientappaidl.model;
+package com.example.admin.serverappaidl.model;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
 
-public class Description {
+public class Name {
 
     @SerializedName("text")
     @Expose

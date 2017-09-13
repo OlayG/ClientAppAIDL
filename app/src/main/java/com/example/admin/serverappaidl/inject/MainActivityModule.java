@@ -1,6 +1,6 @@
-package com.example.admin.clientappaidl.inject;
+package com.example.admin.serverappaidl.inject;
 
-import com.example.admin.clientappaidl.view.MainActivityPresenter;
+import com.example.admin.serverappaidl.view.MainActivityPresenter;
 
 import dagger.Module;
 import dagger.Provides;

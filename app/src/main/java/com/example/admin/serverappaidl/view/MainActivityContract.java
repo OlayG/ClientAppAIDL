@@ -1,7 +1,7 @@
-package com.example.admin.clientappaidl.view;
+package com.example.admin.serverappaidl.view;
 
-import com.example.admin.clientappaidl.BasePresenter;
-import com.example.admin.clientappaidl.BaseView;
+import com.example.admin.serverappaidl.BasePresenter;
+import com.example.admin.serverappaidl.BaseView;
 
 /**
  * Created by Admin on 9/11/2017.

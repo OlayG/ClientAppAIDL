@@ -1,14 +1,14 @@
 
-package com.example.admin.clientappaidl;
+package com.example.admin.serverappaidl;
 
 import android.os.Parcel;
 import android.os.Parcelable;
 
-import com.example.admin.clientappaidl.model.Description;
-import com.example.admin.clientappaidl.model.End;
-import com.example.admin.clientappaidl.model.Logo;
-import com.example.admin.clientappaidl.model.Name;
-import com.example.admin.clientappaidl.model.Start;
+import com.example.admin.serverappaidl.model.Description;
+import com.example.admin.serverappaidl.model.End;
+import com.example.admin.serverappaidl.model.Logo;
+import com.example.admin.serverappaidl.model.Name;
+import com.example.admin.serverappaidl.model.Start;
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
 

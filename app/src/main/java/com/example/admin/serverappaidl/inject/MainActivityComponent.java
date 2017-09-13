@@ -1,6 +1,6 @@
-package com.example.admin.clientappaidl.inject;
+package com.example.admin.serverappaidl.inject;
 
-import com.example.admin.clientappaidl.MainActivity;
+import com.example.admin.serverappaidl.MainActivity;
 
 import dagger.Component;
 

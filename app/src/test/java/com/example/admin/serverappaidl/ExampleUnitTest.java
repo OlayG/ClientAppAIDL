@@ -1,4 +1,4 @@
-package com.example.admin.clientappaidl;
+package com.example.admin.serverappaidl;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.example.admin.clientappaidl.adapter;
+package com.example.admin.serverappaidl.adapter;
 
 import android.support.v7.widget.AppCompatImageView;
 import android.support.v7.widget.AppCompatTextView;
@@ -7,8 +7,8 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.example.admin.clientappaidl.Event;
-import com.example.admin.clientappaidl.R;
+import com.example.admin.serverappaidl.Event;
+import com.example.admin.serverappaidl.R;
 import com.squareup.picasso.Picasso;
 
 import java.util.ArrayList;

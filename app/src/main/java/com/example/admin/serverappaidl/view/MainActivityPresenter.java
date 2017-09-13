@@ -1,4 +1,4 @@
-package com.example.admin.clientappaidl.view;
+package com.example.admin.serverappaidl.view;
 
 /**
  * Created by Admin on 9/11/2017.

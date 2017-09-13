@@ -1,4 +1,4 @@
-package com.example.admin.clientappaidl;
+package com.example.admin.serverappaidl;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
